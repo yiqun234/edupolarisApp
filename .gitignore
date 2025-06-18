@@ -60,9 +60,5 @@ dev-debug.log
 # OS specific
 
 .cursor/
-.roo/
-.roomodes
-.taskmaster/
-.windsurfrules
 android/
 ios/
